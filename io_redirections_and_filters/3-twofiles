@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n13 /ect/passwd ; cat /etc/hosts 
